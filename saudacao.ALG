@@ -6,12 +6,14 @@ Algoritmo "saudação"
 
 
 Var
-         nome :caractere
+         nome,snome :caractere
 
 Inicio
       escreval("digite seu nome:")
       leia (nome)
-      escreval("seja bem-vindo(a), ", nome)
+      escreval("digite seu sobrenome:")
+      leia (snome)
+      escreval("seja bem-vindo(a), ", nome," " , snome)
       
 
 
