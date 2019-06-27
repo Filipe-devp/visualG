@@ -1,2 +1,3 @@
 # visualG
-aqui vão os códigos da matéria lógica de Programação
+aqui irei colocar todos os códigos praticados na uc09 -
+ lógica de programação** , que estudei no Senac VPR.
