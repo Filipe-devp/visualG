@@ -1,5 +1,5 @@
 # visualG
-![visualg_version](https://img.shields.io/badge/visualg-3.0-brightgreen.svg)
+![visualg_version](https://img.shields.io/badge/visualg-3.0-brightgreen.svg) 🙌🦕🤠
 
 aqui irei colocar todos os códigos praticados na uc09 -
  lógica de programação** , que estudei no Senac VPR.
