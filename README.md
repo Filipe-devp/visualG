@@ -7,6 +7,8 @@ aqui irei colocar todos os códigos praticados na uc09 -
  
 ##__negrito__
 
+__negrito__
+
 ![tela visualg](https://user-images.githubusercontent.com/52284136/60517191-9e475780-9cb5-11e9-8838-4104d3840d11.png)
 ## A tela principal do visualg
 - **Abrir (Ctrl-A)**: Abre um arquivo anteriormente gravado, substituindo o texto presente no editor. Se este tiver sido
