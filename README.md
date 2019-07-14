@@ -1,12 +1,12 @@
 # visualG
 ![visualg_version](https://img.shields.io/badge/visualg-3.0-brightgreen.svg) 🙌🦕🤠🦖
 
-Aqui irei colocar todos os códigos praticados na uc09 -
- lógica de programação** , que estudei no Senac VPR.
-<<<<<<< HEAD
+##resumo visualg
  
+
+### **Em destaque uma imagem de exmplo da interface do Visualg** 
 ![tela visualg](https://user-images.githubusercontent.com/52284136/60517191-9e475780-9cb5-11e9-8838-4104d3840d11.png)
-## A tela principal do visualg
+## → barra detarefas do visualg
 - **Abrir (Ctrl-A)**: Abre um arquivo anteriormente gravado, substituindo o texto presente no editor. Se este tiver sido
 modificado, o VisuAlg pedirá sua confirmação para salvá-lo antes que seja sobreposto.
 - **Novo (Ctrl-N)**: Cria um novo "esqueleto" de pseudocódigo, substituindo o texto presente no editor. Se este tiver sido
