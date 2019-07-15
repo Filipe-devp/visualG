@@ -60,5 +60,8 @@ VisuAlg pede seu nome e localização.
 - **Perfil** : Após a execução de um pseudocódigo, exibe o número de vezes que cada umas das suas linhas foi executada. É útil para a análise de eficiência (por exemplo, nos métodos de ordenação). Mostrar pilha de ativação (Ctrl-F3): Exibe a pilha de subprogramas ativados num dado momento. Convém utilizar este comando em conjunto com breakpoints ou com a execução passo a passo.
 - **Ajuda** : Possibilita acesso às páginas de ajuda e às informações sobre o VisuAlg.
 
+## exemplo de inteface do visulg ☞
 
+![image](https://user-images.githubusercontent.com/52284136/61215824-44498780-a6e2-11e9-83fb-eaeafc5c93bd.png)
+ 
 
