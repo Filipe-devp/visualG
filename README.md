@@ -65,5 +65,9 @@ VisuAlg pede seu nome e localização.
 ## exemplo de inteface do visulg ☞
 
 ![image](https://user-images.githubusercontent.com/52284136/61215824-44498780-a6e2-11e9-83fb-eaeafc5c93bd.png)
+
+## um link para um video informativo
+[![logica](http://img.youtube.com/vi/3nimGaFRLwI/0.jpg)](http://www.youtube.com/watch?v=3nimGaFRLwI)
+ 
  
 
