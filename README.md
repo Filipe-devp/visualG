@@ -1,5 +1,5 @@
 # visualG
-![visualg_version](https://img.shields.io/badge/visualg-3.0-brightgreen.svg) 
+![visualg_version](https://img.shields.io/badge/visualg-3.0-green.svg) 
 ![visualg_version](https://img.shields.io/badge/visualg-3.0-green.svg) 🙌 🦕 🤠 🦖
 
 ## resumo do visualg
