@@ -6,7 +6,7 @@
 ### **Em destaque uma imagem de exemplo da interface do Visualg** 
 ![tela visualg](https://user-images.githubusercontent.com/52284136/60517191-9e475780-9cb5-11e9-8838-4104d3840d11.png)
 ##  Barra de tarefas do visualg (imagem de exemplo abaixo)
->>>>>>> 7fbdc5a8439997d2c4d6fcd088de3b7addf446fb
+
  ☞ ![visu como](https://user-images.githubusercontent.com/52284136/60517222-ac957380-9cb5-11e9-90d9-5bb5d7434159.png)
  ☞ ![visu sim](https://user-images.githubusercontent.com/52284136/60517240-b0c19100-9cb5-11e9-9eeb-babb33d8694f.png).##
    
